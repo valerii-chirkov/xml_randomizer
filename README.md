@@ -5,7 +5,7 @@
 ```xml
 <root>
 	<var name=’id’ value=’<random unique str>’/>
-	<var name=’level’ value=’<randint(1, 101)>’/>
+	<var name=’level’ value=’<randint(1, 100)>’/>
 	<objects>
 		<object name=’<random str>’/>
 		<object name=’<random str>’/>
