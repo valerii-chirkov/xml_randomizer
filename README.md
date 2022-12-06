@@ -6,11 +6,11 @@
 <root>
 	<var name=’id’ value=’<random unique str>’/>
 	<var name=’level’ value=’<randint(1, 101)>’/>
-<objects>
-	<object name=’<random str>’/>
-	<object name=’<random str>’/>
-…
-</objects>
+	<objects>
+		<object name=’<random str>’/>
+		<object name=’<random str>’/>
+		…
+	</objects>
 </root>
 ```
 В тэге objects случайное число (от 1 до 10) вложенных тэгов object.
